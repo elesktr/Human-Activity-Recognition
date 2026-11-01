@@ -9,7 +9,7 @@ A Python program that uses a pre-trained ResNet-34 deep learning model to recogn
 - Displays the predicted activity on each video frame
 - Can save the processed video
 
-**Before running the project, you need to download the pre-trained model: resnet-34_kinetics.onnx**
+### !Before running the project, you need to download the pre-trained model: resnet-34_kinetics.onnx!
 
 # How to Run
 (replace HAR.py and Actions.txt with the names of your files)
